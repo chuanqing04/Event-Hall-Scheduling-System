@@ -1,0 +1,20 @@
+# Java compiled files
+*.class
+*.jar
+
+# NetBeans generated/private files
+build/
+dist/
+nbproject/private/
+
+# Runtime/private data
+Login.txt
+Adminlog.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
