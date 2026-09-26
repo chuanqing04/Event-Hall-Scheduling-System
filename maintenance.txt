@@ -1,0 +1,5 @@
+3,Alice Johnson,Broken projector in Meeting Room C,Meeting Room A,Meeting Room,Staff C,Done,"Parts ordered","Awaiting parts delivery","2024-09-25","10:00","2024-09-25","11:30"
+4,Bob Brown,Lights flickering in Auditorium,Auditorium 1,Auditorium,Staff B,Cancelled,"Issue resolved by maintenance",123,2024-09-01,20:24,2024-09-27,20:24
+5,Emily Davis,Furniture rearrangement needed,Banquet Hall,Banquet Hall,Staff A,Closed,"All set for next event",1,2024-09-01,20:24,2024-09-30,20:24
+6,Dave Wilson,Safety inspection required,Auditorium 2,Auditorium,Staff B,In Progress,"Awaiting inspection date","Inspection scheduled for next month","2024-10-15","10:00","2024-10-15","11:00"
+7,Sarah Connor,Sound system malfunction,Banquet Hall,Banquet Hall,,In Progress,"Technician scheduled for repair","Repair scheduled for 2024-09-28","2024-09-28","14:00","2024-09-28","16:00"

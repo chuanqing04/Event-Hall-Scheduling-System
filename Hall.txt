@@ -1,0 +1,7 @@
+Hall Name,Hall Type,Hall Availability Start Date,Hall Availability Start Time,Hall Availability End Date,Hall Availability End Time,Availability Remarks
+A,Banquet Hall,2024-09-01,20:24,2024-09-28,20:24,1,all broke,-
+B,Auditorium,2024-09-01 20:24,2024-09-10 20:24,1,-,-,-,Done
+C,Auditorium,2024-09-01,00:00,2024-09-28,10:11,1,-,-
+D,Banquet Hall,-,-,-,-,-,-,-
+E,Meeting Room,-,-,-,-,-,-,-
+F,Meeting Room,-,-,-,-,-,-,-

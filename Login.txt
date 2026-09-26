@@ -1,0 +1,15 @@
+admin,12345,admin,FALSE
+alice123,securePass1,scheduler,TRUE
+bob_smith,securePass2,admin,FALSE
+carol.jones,securePass3,manager,FALSE
+david.brown,securePass4,scheduler,FALSE
+emma_watson,***********,manager,FALSE
+frank_lee,securePass6,manager,FALSE
+grace_kim,securePass7,scheduler,FALSE
+hank_olsen,securePass8,admin,FALSE
+irene_park,securePass9,manager,FALSE
+jack_ryan,securePass10,scheduler,FALSE
+a,a,admin,FALSE
+s,s,scheduler,FALSE
+m,m,manager,FALSE
+c,c,customer,FALSE
